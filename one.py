@@ -64,7 +64,7 @@ class OneVideo:
             try:
                 self.save_one_video_info(url)
             except:
-                print(f'视频 {url} 查询失败')
+                print(f'111视频 {url} 查询失败')
 
 
 if __name__ == '__main__':
